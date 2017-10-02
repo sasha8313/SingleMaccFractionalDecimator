@@ -1,0 +1,1 @@
+Fractional decimator example based on MACC architecture
